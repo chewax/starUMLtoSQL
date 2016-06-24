@@ -1,0 +1,16 @@
+{
+  "name": "umltosql.js",
+  "version": "1.0.0",
+  "description": "Star UML mdj to sql table creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Daniel Waksman <dwaksman@gmail.com> (https://github.com/chewax)",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^2.3.1",
+    "minimist": "^1.2.0",
+    "underscore": "^1.8.3"
+  }
+}
